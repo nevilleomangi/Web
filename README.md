@@ -1,3 +1,3 @@
 # Web
 Website
-To be integrated eith lipa na mpesa APIS
+To be integrated Lipa Na MPESA APIS
